@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "libmem.h": "c",
+        "mm.h": "c",
+        "common.h": "c"
+    }
+}
